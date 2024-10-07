@@ -22,7 +22,7 @@
    웹서버 버전
 
    ```bash
-
+   make build:web
    ```
 
    cli 버전
